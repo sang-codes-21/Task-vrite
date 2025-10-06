@@ -85,7 +85,7 @@ className="bg-[#A88964] flex justify-center items-center p-10  lg:pr-[170px] rou
 
 
 {/* bottom card */}
-           <div className="bg-[#F58282] flex text-right justify-end items-center p-10 lg:pl-[170px] rounded-lg shadow-lg">
+           <div className="bg-[#E06666] flex text-right justify-end items-center p-10 lg:pl-[170px] rounded-lg shadow-lg">
             sanf Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
     Autem dicta optio ipsum assumenda repellat aspernatur 
     laudantium iure facere ratione sapiente distinctio consectetur,
@@ -93,14 +93,14 @@ className="bg-[#A88964] flex justify-center items-center p-10  lg:pr-[170px] rou
     </div>  
 
 
-  <div className="bg-[#5492A0] flex justify-center items-center p-10  lg:pr-[170px] rounded-lg shadow-lg">
+  <div className="bg-[#437784] flex justify-center items-center p-10  lg:pr-[170px] rounded-lg shadow-lg">
     Lorem ipsum, dolor sit amet consectetur adipisicing elit.
     Autem dicta optio ipsum assumenda repellat aspernatur
     laudantium iure facere ratione sapiente distinctio consectetur,
     minus, quod quasi debitis eos placeat iste veniam.
     </div> 
 
-<div className="bg-[#6C64A8] flex  text-right justify-center items-center p-10 lg:pl-[170px]  rounded-lg shadow-lg">
+<div className="bg-[#5A5190] flex  text-right justify-center items-center p-10 lg:pl-[170px]  rounded-lg shadow-lg">
     Lorem ipsum, dolor sit amet consectetur adipisicing elit.
     Autem dicta optio ipsum assumenda repellat aspernatur
     laudantium iure facere ratione sapiente distinctio consectetur,
@@ -109,7 +109,7 @@ className="bg-[#A88964] flex justify-center items-center p-10  lg:pr-[170px] rou
 
   
 
-    <div className="bg-[#A88964] flex justify-center items-center p-10  lg:pr-[170px] rounded-lg shadow-lg">
+    <div className="bg-[#8F7452] flex justify-center items-center p-10  lg:pr-[170px] rounded-lg shadow-lg">
     Lorem ipsum, dolor sit amet consectetur adipisicing elit.
     Autem dicta optio ipsum assumenda repellat aspernatur
     laudantium iure facere ratione sapiente distinctio consectetur,

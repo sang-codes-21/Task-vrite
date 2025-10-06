@@ -82,13 +82,9 @@ transition={{
   onMouseLeave={() => setimghover(null)}
 
 >
-    {(index === 0 || index === 5) && (imghover === 0 || imghover === 5) && (
-    <motion.div 
-    className="absolute -inset-1 rounded-3xl border-4 border-green-400"
-    initial={{ scale: 0.5 }}
-    animate={{ scale: 1 }}
-    transition={{ duration: 0.5 }}
-  />)}
+    {(index === 0 || index === 4) && imghover === index && (
+    <div className="absolute -inset-1 rounded-3xl border-4 border-green-300 animate-pulse" />
+  )}
   <img src={src} className='rounded-3xl lg:w-[100px] lg:h-[100px] w-[40px] h-[40px]  shadow-lg object-cover '/>
    
    
